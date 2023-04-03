@@ -77,13 +77,3 @@ body {
 .button:active{
     transform: scale(1.1);
 }
-
-@media (max-width:500px) {
-    .container {
-        margin: 0 auto;
-        width: auto;
-        height: 100vh;
-        border-radius: 0px;
-        padding: 0 30px;
-    }
-}
